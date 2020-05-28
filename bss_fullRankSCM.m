@@ -3,7 +3,7 @@ function [sep,cost] = bss_fullRankSCM(mix,ns,fftSize,shiftSize,it,fs,micSpacing,
 % bss_fullRankSCM: Multichannel source separation based on full-rank spatial covariance model
 %
 % Coded by D. Kitamura (d-kitamura@ieee.org)
-%
+%a
 % # Original paper
 % N. Q. K. Duong, E. Vincent, and R. Gribonval, "Underdetermined
 % reverberant audio source separation using a fullrank spatial covariance
